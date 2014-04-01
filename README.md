@@ -1,7 +1,9 @@
 pi-kiosk-puppet
 ===============
 
-Bootstrap and provision a Raspberry Pi Kiosk node
+Bootstrap and provision a Raspberry Pi Kiosk node.
+
+This is intendend to get the Raspberry Pi ready to run https://github.com/cornet/ruby-uzbl
 
 
 Usage
